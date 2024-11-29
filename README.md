@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm passionate about Competitive programing, machi
 ## 📫 How to Reach Me
 
 - Email: [yaseen.abdulghany@gmail.com](mailto:yaseen.abdulghany@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yaseenabdulghany)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [@yaseenabdulghany](https://www.linkedin.com/in/yaseenabdulghany)
+- Kaggle: [@yaseenabdulghany](https://kaggle.com/yaseenabdulghany)
 
 Feel free to check out my repositories and contribute to any of my open-source projects!
 
