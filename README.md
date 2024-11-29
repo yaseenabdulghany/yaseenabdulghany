@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about Competitive programing, machi
 - Email: [yaseen.abdulghany@gmail.com](mailto:yaseen.abdulghany@gmail.com)
 - LinkedIn: [@yaseenabdulghany](https://www.linkedin.com/in/yaseenabdulghany)
 - Kaggle: [@yaseenabdulghany](https://kaggle.com/yaseenabdulghany)
-- Codeforces: [@yaseenabdulghany](https://codeforces.com/y_a)
+- Codeforces: [@yaseenabdulghany](https://codeforces.com/profile/Y_A)
 
 Feel free to check out my repositories and contribute to any of my open-source projects!
 
